@@ -12,30 +12,30 @@ html{
 
 .masthead{
   
-   padding: 5em;
-   margin: 3em 2em;
-   color: #000;
+ padding: 5em;
+ margin: 3em 2em;
+ color: #000;
   
-  background: no-repeat center center fixed;
-  background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
-  background-size: cover;
-  background-clip: padding-box;
+ background: no-repeat center center fixed;
+ background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
+ background-size: cover;
+ background-clip: padding-box;
 
-   border: 12px solid rgba(0, 0, 0, 0.3);
+ border: 12px solid rgba(0, 0, 0, 0.3);
   
-   -webkit-border-radius: 75px 25px 75px 25px;
-   -moz-border-radius: 75px 25px 75px 25px;
-   border-radius: 75px 25px 75px 25px;
+ -webkit-border-radius: 75px 25px 75px 25px;
+ -moz-border-radius: 75px 25px 75px 25px;
+ border-radius: 75px 25px 75px 25px;
   
-    -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+ -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+ -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+ box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
 }
 
 .masthead-heading,
 .masthead-subtext,
 .subfootHead{
-text-align: center;
+ text-align: center;
 }
 
 .masthead-heading{
@@ -89,15 +89,15 @@ text-align: center;
   background-size: cover;
   background-clip: padding-box;
 
-   border: 12px solid rgba(0, 0, 0, 0.3);
+  border: 12px solid rgba(0, 0, 0, 0.3);
   
-   -webkit-border-radius: 75px 25px 75px 25px;
-   -moz-border-radius: 75px 25px 75px 25px;
-   border-radius: 75px 25px 75px 25px;
+  -webkit-border-radius: 75px 25px 75px 25px;
+  -moz-border-radius: 75px 25px 75px 25px;
+  border-radius: 75px 25px 75px 25px;
   
-    -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
 }
 
 .hometown{
@@ -108,15 +108,15 @@ text-align: center;
   background-size: cover;
   background-clip: padding-box;
 
-   border: 12px solid rgba(0, 0, 0, 0.3);
+  border: 12px solid rgba(0, 0, 0, 0.3);
   
-   -webkit-border-radius: 75px 25px 75px 25px;
-   -moz-border-radius: 75px 25px 75px 25px;
-   border-radius: 75px 25px 75px 25px;
+  -webkit-border-radius: 75px 25px 75px 25px;
+  -moz-border-radius: 75px 25px 75px 25px;
+  border-radius: 75px 25px 75px 25px;
   
-    -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
 }
 
 .aboutMe{
@@ -127,15 +127,15 @@ text-align: center;
   background-size: cover;
   background-clip: padding-box;
 
-   border: 12px solid rgba(0, 0, 0, 0.3);
+  border: 12px solid rgba(0, 0, 0, 0.3);
   
-   -webkit-border-radius: 75px 25px 75px 25px;
-   -moz-border-radius: 75px 25px 75px 25px;
-   border-radius: 75px 25px 75px 25px;
+  -webkit-border-radius: 75px 25px 75px 25px;
+  -moz-border-radius: 75px 25px 75px 25px;
+  border-radius: 75px 25px 75px 25px;
   
-    -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
-   box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  -moz-box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
+  box-shadow: 0px 0px 4px 6px rgba(10, 10, 0, 0.5);
 }
 
 .aboutMeQ{
