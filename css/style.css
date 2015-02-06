@@ -4,10 +4,65 @@
   }
 }
 
-html{
+html,
+body,
+ul,
+li,
+div{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+body{
   background: no-repeat center center fixed;
   background-image: url(http://i.imgur.com/orcAWUc.jpg);
   background-size: cover;
+}
+
+.navbar{
+  background: rgba(0, 0, 0, 0.3);
+  box-shadow: 0px -2px 4px 6px rgba(10, 10, 0, 0.5);
+  width: 100%;
+  position: fixed;
+  height: 5em;
+  top: 0;
+  z-index: 9999;
+}
+
+.navbar .content{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  float: right;
+  margin-top: 2em;
+  padding: 0 7em;
+}
+
+.navbar .content li{
+  display: inline-block;
+  margin-left: 1.5em;
+}
+
+.heading,
+.articles,
+.subfoot{
+  overflow: auto;
+}
+
+.heading{
+  margin-top: 6em;
 }
 
 .masthead{
