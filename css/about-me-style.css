@@ -84,7 +84,7 @@ body{
  color: #000;
   
  background: no-repeat center center fixed;
- background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
+ background-image: url('../images/jelly.jpeg');
  background-size: cover;
  background-clip: padding-box;
 
@@ -152,7 +152,7 @@ body{
   margin-top: 1em;
   padding: 0em 4em 1.5em 4em;
   background: no-repeat center center fixed;
-  background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
+  background-image: url('../images/jelly.jpeg');
   background-size: cover;
   background-clip: padding-box;
 
@@ -171,7 +171,7 @@ body{
   margin-top: 2em;
   padding: 0em 4em 1.5em 4em;
   background: no-repeat center center fixed;
-  background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
+  background-image: url('../images/jelly.jpeg');
   background-size: cover;
   background-clip: padding-box;
 
@@ -190,7 +190,7 @@ body{
   margin-top: 2em;
   padding: 0em 4em 1.5em 4em;
   background: no-repeat center center fixed;
-  background-image: url('https://ununsplash.imgix.net/photo-1415201179613-bd037ff5eb29?q=75&fm=jpg&s=750bf3cbc777d5e274b76dc9d30b4925');
+  background-image: url('../images/jelly.jpeg');
   background-size: cover;
   background-clip: padding-box;
 
@@ -213,10 +213,7 @@ body{
 .subfoot{
   line-height: 0.5;
   background: black;
-  margin-top: 8em;
-  margin-bottom: -1em;
-  margin-right: -0.5em;
-  margin-left: -0.5em;
+  margin: 8em -0.5em -1em -0.5em;
 }
 
 .subfootHead{
